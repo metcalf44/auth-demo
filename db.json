@@ -1,0 +1,29 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "uid": "0DtS2tWrxJd3xjTFJrWQpisE9dU2",
+      "word": "Hola"
+    },
+    {
+      "id": 2,
+      "uid": "0DtS2tWrxJd3xjTFJrWQpisE9dU2",
+      "word": "Hi"
+    },
+    {
+      "id": 3,
+      "uid": "0DtS2tWrxJd3xjTFJrWQpisE9dU2",
+      "word": "Bonjour"
+    },
+    {
+      "id": 4,
+      "uid": "Wo0Yya5gcdbi2ECHnzt5nf3S6193",
+      "word": "Chao"
+    },
+    {
+      "id": 5,
+      "uid": "Wo0Yya5gcdbi2ECHnzt5nf3S6193",
+      "word": "Bye"
+    }
+  ]
+}
